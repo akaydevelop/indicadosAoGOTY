@@ -126,7 +126,7 @@
     "value": "Paid",
     "price": "R$ 127,69",
     "link": "https://store.steampowered.com/app/1902960/Lost_Records_Bloom__Rage/",
-    "image": "./img/lost records.webp",
+    "image": "./img/lost-records.webp",
     "tags": ["narrativa", "aventura", "impacto"]
   },
   {
@@ -176,7 +176,7 @@
     "value": "Paid",
     "price": "R$ 199,50",
     "link": "https://store.steampowered.com/app/553850/HELLDIVERS_2/",
-    "image": "./img/helldivers 2.webp",
+    "image": "./img/helldivers-2.webp",
     "tags": ["tiro", "coop", "suporte"]
   },
   {
@@ -366,7 +366,7 @@
     "value": "Paid",
     "price": "R$ 349,90",
     "link": "https://store.steampowered.com/app/3017860/DOOM_The_Dark_Ages/",
-    "image": "./img/doom the dark ages.webp",
+    "image": "./img/doom-the-dark-ages.webp",
     "tags": ["fps", "ação", "violência"]
   },
   {
@@ -616,7 +616,7 @@
     "value": "Paid",
     "price": "R$ 171,80",
     "link": "https://store.steampowered.com/app/1808500/ARC_Raiders/",
-    "image": "./img/arc raiders.webp",
+    "image": "./img/arc-raiders.webp",
     "tags": ["tiro", "coop", "sci-fi"]
   },
   {
@@ -626,7 +626,7 @@
     "value": "Paid",
     "price": "R$ 197,90",
     "link": "https://store.steampowered.com/app/2622380/ELDEN_RING_NIGHTREIGN/",
-    "image": "./img/elden ring nightreing.webp",
+    "image": "./img/elden-ring-nightreing.webp",
     "tags": ["rpg", "soulslike", "expansão"]
   },
   {
@@ -666,7 +666,7 @@
     "value": "Paid",
     "price": "R$ 299,90",
     "link": "https://store.steampowered.com/app/3768760/007_First_Light/",
-    "image": "./img/007 first light.webp",
+    "image": "./img/007-first-light.webp",
     "tags": ["ação", "espião", "aguardado"]
   },
   {
@@ -736,7 +736,7 @@
     "value": "Paid",
     "price": "R$ 299,90",
     "link": "https://store.steampowered.com/app/3378960/Lost_Soul_Aside/",
-    "image": "./img/lost soul aside.webp",
+    "image": "./img/lost-soul-aside.webp",
     "tags": ["ação", "rpg", "hack-and-slash"]
   },
   {
@@ -766,7 +766,7 @@
     "value": "Paid",
     "price": "R$ 319,90",
     "link": "https://store.steampowered.com/app/1984270/Digimon_Story_Time_Stranger/",
-    "image": "./img/digimon story time stranger.webp",
+    "image": "./img/digimon-story-time-stranger.webp",
     "tags": ["rpg", "anime", "digimon"]
   },
   {
@@ -806,7 +806,7 @@
     "value": "Paid",
     "price": "R$ 179,99",
     "link": "https://store.steampowered.com/app/1620730/Hell_is_Us/",
-    "image": "./img/hell is us.webp",
+    "image": "./img/hell-is-us.webp",
     "tags": ["ação", "aventura", "sci-fi"]
   }
 ]
