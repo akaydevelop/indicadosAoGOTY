@@ -57,6 +57,6 @@ indicadosAoGOTY/
 ├── index.html      # Estrutura principal
 ├── style.css       # Estilos visuais
 ├── script.js       # Lógica e interações
-└── img/         # Imagens dos jogos (se houver)
+└── img/         # Imagem da capa dos jogos
 ````
 
