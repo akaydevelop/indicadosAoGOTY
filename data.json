@@ -7,7 +7,7 @@
     "price": "R$ 239,00",
     "link": "https://store.steampowered.com/app/2633850/Clair_Obscur_Expedition_33/",
     "image": "./img/expedition33.webp",
-    "tags": ["rpg", "turnos", "fantasia", "goty-nominee"]
+    "tags": ["rpg", "turnos", "fantasia", "goty_nominee"]
   },
   {
     "name": "Death Stranding 2: On the Beach",
@@ -15,9 +15,8 @@
     "year": 2025,
     "value": "Paid",
     "price": "R$ 399,90",
-    "link": "https://www.playstation.com/en-us/games/death-stranding-2-on-the-beach/",
     "image": "./img/death_stranding_2.webp",
-    "tags": ["ação", "narrativa", "mundo-aberto", "goty-nominee"]
+    "tags": ["ação", "narrativa", "mundo_aberto", "goty_nominee"]
   },
   {
     "name": "Donkey Kong Bananza",
@@ -25,9 +24,8 @@
     "year": 2025,
     "value": "Paid",
     "price": "R$ 439,90",
-    "link": "https://www.nintendo.com/pt-br/store/products/donkey-kong-bananza-switch-2",
     "image": "./img/donkey_kong_bananza.webp",
-    "tags": ["plataforma", "aventura", "família", "goty-nominee"]
+    "tags": ["plataforma", "aventura", "família", "goty_nominee"]
   },
   {
     "name": "Hades II",
@@ -36,8 +34,8 @@
     "value": "Paid",
     "price": "R$ 88,99",
     "link": "https://store.steampowered.com/app/1145350/Hades_II/",
-    "image": "./img/hades-ii.webp",
-    "tags": ["roguelike", "ação", "indie", "goty-nominee"]
+    "image": "./img/hades_ii.webp",
+    "tags": ["roguelike", "ação", "indie", "goty_nominee"]
   },
   {
     "name": "Hollow Knight: Silksong",
@@ -47,7 +45,7 @@
     "price": "R$ 59,90",
     "link": "https://store.steampowered.com/app/1030300/Hollow_Knight_Silksong/",
     "image": "./img/silksong.webp",
-    "tags": ["metroidvania", "indie", "goty-nominee"]
+    "tags": ["indie", "metroidvania", "goty_nominee"]
   },
   {
     "name": "Kingdom Come: Deliverance II",
@@ -57,7 +55,7 @@
     "price": "R$ 299,00",
     "link": "https://store.steampowered.com/app/1771300/Kingdom_Come_Deliverance_II/",
     "image": "./img/kingdom_come_deliverance.webp",
-    "tags": ["rpg", "medieval", "realista", "goty-nominee"]
+    "tags": ["rpg", "medieval", "realista", "goty_nominee"]
   },
   {
     "name": "Ghost of Yōtei",
@@ -65,7 +63,6 @@
     "year": 2025,
     "value": "Paid",
     "price": "R$ 399,90",
-    "link": "https://www.playstation.com/en-us/games/ghost-of-yotei/",
     "image": "./img/ghost_of_yotei.webp",
     "tags": ["ação", "aventura", "samurai", "direção"]
   },
@@ -87,7 +84,7 @@
     "price": "R$ 349,90",
     "link": "https://store.steampowered.com/app/2947440/SILENT_HILL_f/",
     "image": "./img/silent_hill_f.webp",
-    "tags": ["terror", "narrativa", "visual-novel"]
+    "tags": ["terror", "narrativa", "visual_novel"]
   },
   {
     "name": "Battlefield 6",
@@ -117,7 +114,7 @@
     "price": "R$ 44,90",
     "link": "https://store.steampowered.com/app/2367820/despelote/",
     "image": "./img/despelote.webp",
-    "tags": ["indie", "futebol", "impacto"]
+    "tags": ["indie", "futebol", "impacto", "estreia"]
   },
   {
     "name": "Lost Records: Bloom & Rage",
@@ -126,7 +123,7 @@
     "value": "Paid",
     "price": "R$ 127,69",
     "link": "https://store.steampowered.com/app/1902960/Lost_Records_Bloom__Rage/",
-    "image": "./img/lost-records.webp",
+    "image": "./img/lost_records.webp",
     "tags": ["narrativa", "aventura", "impacto"]
   },
   {
@@ -167,7 +164,7 @@
     "price": "Grátis",
     "link": "https://www.fortnite.com/",
     "image": "./img/fortnite.webp",
-    "tags": ["battle-royale", "online", "suporte"]
+    "tags": ["battle_royale", "online", "suporte"]
   },
   {
     "name": "Helldivers 2",
@@ -176,7 +173,7 @@
     "value": "Paid",
     "price": "R$ 199,50",
     "link": "https://store.steampowered.com/app/553850/HELLDIVERS_2/",
-    "image": "./img/helldivers-2.webp",
+    "image": "./img/helldivers_2.webp",
     "tags": ["tiro", "coop", "suporte"]
   },
   {
@@ -187,7 +184,7 @@
     "price": "Grátis",
     "link": "https://store.steampowered.com/app/2767030/Marvel_Rivals/",
     "image": "./img/marvel_rivals.webp",
-    "tags": ["hero-shooter", "multiplayer", "marvel"]
+    "tags": ["hero_shooter", "multiplayer", "marvel"]
   },
   {
     "name": "No Man's Sky",
@@ -287,7 +284,7 @@
     "price": "Grátis",
     "link": "https://store.steampowered.com/app/2951690/Sonic_Rumble/",
     "image": "./img/sonic_rumble.webp",
-    "tags": ["mobile", "battle-royale", "sonic"]
+    "tags": ["mobile", "battle_royale", "sonic"]
   },
   {
     "name": "Umamusume: Pretty Derby",
@@ -306,7 +303,7 @@
     "value": "Free",
     "price": "Grátis",
     "link": "https://store.steampowered.com/app/3513350/Wuthering_Waves/",
-    "image": "./img/wuthering-waves.webp",
+    "image": "./img/wuthering_waves.webp",
     "tags": ["mobile", "rpg", "mundo-aberto"]
   },
   {
@@ -326,7 +323,7 @@
     "value": "Paid",
     "price": "R$ 107,90",
     "link": "https://store.steampowered.com/app/2274200/Arken_Age/",
-    "image": "./img/arken-age.webp",
+    "image": "./img/arken_age.webp",
     "tags": ["vr", "aventura"]
   },
   {
@@ -345,7 +342,6 @@
     "year": 2025,
     "value": "Paid",
     "price": "$ 49,99",
-    "link": "https://www.meta.com/pt-br/experiences/marvels-deadpool-vr/3240283705987790/",
     "image": "./img/marvelsdeadpoolvr.webp",
     "tags": ["vr", "ação", "herói"]
   },
@@ -366,7 +362,7 @@
     "value": "Paid",
     "price": "R$ 349,90",
     "link": "https://store.steampowered.com/app/3017860/DOOM_The_Dark_Ages/",
-    "image": "./img/doom-the-dark-ages.webp",
+    "image": "./img/doom_the_dark_ages.webp",
     "tags": ["fps", "ação", "violência"]
   },
   {
@@ -377,7 +373,7 @@
     "price": "R$ 299,00",
     "link": "https://store.steampowered.com/app/2627260/NINJA_GAIDEN_4/",
     "image": "./img/ninja_gaiden_4.webp",
-    "tags": ["ação", "hack-and-slash"]
+    "tags": ["ação", "hack_and_slash"]
   },
   {
     "name": "Shinobi: Art of Vengeance",
@@ -407,7 +403,7 @@
     "price": "R$ 349,00",
     "link": "https://store.steampowered.com/app/2457220/Avowed/",
     "image": "./img/avowed.webp",
-    "tags": ["rpg", "fantasia", "primeira-pessoa"]
+    "tags": ["rpg", "fantasia", "primeira_pessoa"]
   },
   {
     "name": "The Outer Worlds 2",
@@ -437,7 +433,7 @@
     "price": "Grátis",
     "link": "https://2xko.riotgames.com/",
     "image": "./img/sxko.webp",
-    "tags": ["luta", "league-of-legends"]
+    "tags": ["luta", "league_of_legends"]
   },
   {
     "name": "Capcom Fighting Collection 2",
@@ -476,7 +472,7 @@
     "value": "Paid",
     "price": "R$ 109,90",
     "link": "https://store.steampowered.com/app/3112260/_Virtua_Fighter_5_REVO_World_Stage/",
-    "image": "./img/Virtua-Fighter-5-R.E.V.O..webp",
+    "image": "./img/Virtua_Fighter_5_R.E.V.O..webp",
     "tags": ["luta", "3d"]
   },
   {
@@ -505,7 +501,6 @@
     "year": 2025,
     "value": "Paid",
     "price": "R$ 499,90",
-    "link": "https://www.nintendo.com/pt-br/store/products/mario-kart-world-switch-2",
     "image": "./img/Mario-Kart-World.webp",
     "tags": ["corrida", "família", "mario"]
   },
@@ -530,7 +525,7 @@
     "tags": ["simulação", "sci-fi", "estratégia"]
   },
   {
-    "name": "Final Fantasy Tactics - The Ivalice Chronicles",
+    "name": "Final Fantasy Tactics _ The Ivalice Chronicles",
     "studio": "Square Enix",
     "year": 2025,
     "value": "Paid",
@@ -626,7 +621,7 @@
     "value": "Paid",
     "price": "R$ 197,90",
     "link": "https://store.steampowered.com/app/2622380/ELDEN_RING_NIGHTREIGN/",
-    "image": "./img/elden-ring-nightreing.webp",
+    "image": "./img/elden_ring_nightreing.webp",
     "tags": ["rpg", "soulslike", "expansão"]
   },
   {
@@ -685,7 +680,6 @@
     "year": 2025,
     "value": "Paid",
     "price": "R$ ??",
-    "link": "https://www.playstation.com/en-us/games/marvels-wolverine/",
     "image": "./img/marvelswolverine.webp",
     "tags": ["ação", "herói", "aguardado"]
   },
@@ -705,7 +699,6 @@
     "year": 2026,
     "value": "Paid",
     "price": "R$ ??",
-    "link": "https://www.thewitcher.com/pt/pt-br/witcher4",
     "image": "./img/the-witcher-4.webp",
     "tags": ["rpg", "fantasia", "aguardado"]
   },
@@ -727,7 +720,7 @@
     "price": "R$ 379,90",
     "link": "https://store.steampowered.com/app/1285190/Borderlands_4/",
     "image": "./img/borderlands_4.webp",
-    "tags": ["fps", "looter-shooter", "coop"]
+    "tags": ["fps", "looter_shooter", "coop"]
   },
   {
     "name": "Lost Soul Aside",
@@ -736,8 +729,8 @@
     "value": "Paid",
     "price": "R$ 299,90",
     "link": "https://store.steampowered.com/app/3378960/Lost_Soul_Aside/",
-    "image": "./img/lost-soul-aside.webp",
-    "tags": ["ação", "rpg", "hack-and-slash"]
+    "image": "./img/lost_soul_aside.webp",
+    "tags": ["ação", "rpg", "hack_and_slash"]
   },
   {
     "name": "Metal Gear Solid Delta: Snake Eater",
@@ -766,7 +759,7 @@
     "value": "Paid",
     "price": "R$ 319,90",
     "link": "https://store.steampowered.com/app/1984270/Digimon_Story_Time_Stranger/",
-    "image": "./img/digimon-story-time-stranger.webp",
+    "image": "./img/digimon_story_time_stranger.webp",
     "tags": ["rpg", "anime", "digimon"]
   },
   {
@@ -806,7 +799,7 @@
     "value": "Paid",
     "price": "R$ 179,99",
     "link": "https://store.steampowered.com/app/1620730/Hell_is_Us/",
-    "image": "./img/hell-is-us.webp",
+    "image": "./img/hell_is_us.webp",
     "tags": ["ação", "aventura", "sci-fi"]
   }
 ]
