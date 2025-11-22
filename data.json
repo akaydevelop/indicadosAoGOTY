@@ -1,0 +1,812 @@
+[
+  {
+    "name": "Clair Obscur: Expedition 33",
+    "studio": "Sandfall Interactive",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 239,00",
+    "link": "https://store.steampowered.com/app/2633850/Clair_Obscur_Expedition_33/",
+    "image": "./img/expedition33.webp",
+    "tags": ["rpg", "turnos", "fantasia", "goty-nominee"]
+  },
+  {
+    "name": "Death Stranding 2: On the Beach",
+    "studio": "Kojima Productions",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 399,90",
+    "link": "https://www.playstation.com/en-us/games/death-stranding-2-on-the-beach/",
+    "image": "./img/death_stranding_2.webp",
+    "tags": ["ação", "narrativa", "mundo-aberto", "goty-nominee"]
+  },
+  {
+    "name": "Donkey Kong Bananza",
+    "studio": "Nintendo",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 439,90",
+    "link": "https://www.nintendo.com/pt-br/store/products/donkey-kong-bananza-switch-2",
+    "image": "./img/donkey_kong_bananza.webp",
+    "tags": ["plataforma", "aventura", "família", "goty-nominee"]
+  },
+  {
+    "name": "Hades II",
+    "studio": "Supergiant Games",
+    "year": 2024,
+    "value": "Paid",
+    "price": "R$ 88,99",
+    "link": "https://store.steampowered.com/app/1145350/Hades_II/",
+    "image": "./img/hades-ii.webp",
+    "tags": ["roguelike", "ação", "indie", "goty-nominee"]
+  },
+  {
+    "name": "Hollow Knight: Silksong",
+    "studio": "Team Cherry",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 59,90",
+    "link": "https://store.steampowered.com/app/1030300/Hollow_Knight_Silksong/",
+    "image": "./img/silksong.webp",
+    "tags": ["metroidvania", "indie", "goty-nominee"]
+  },
+  {
+    "name": "Kingdom Come: Deliverance II",
+    "studio": "Warhorse Studios",
+    "year": 2024,
+    "value": "Paid",
+    "price": "R$ 299,00",
+    "link": "https://store.steampowered.com/app/1771300/Kingdom_Come_Deliverance_II/",
+    "image": "./img/kingdom_come_deliverance.webp",
+    "tags": ["rpg", "medieval", "realista", "goty-nominee"]
+  },
+  {
+    "name": "Ghost of Yōtei",
+    "studio": "Sucker Punch Productions",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 399,90",
+    "link": "https://www.playstation.com/en-us/games/ghost-of-yotei/",
+    "image": "./img/ghost_of_yotei.webp",
+    "tags": ["ação", "aventura", "samurai", "direção"]
+  },
+  {
+    "name": "Split Fiction",
+    "studio": "Indie/AA Studio",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 199,90",
+    "link": "https://store.steampowered.com/app/2001120/Split_Fiction/",
+    "image": "./img/split_fiction.webp",
+    "tags": ["ação", "narrativa", "direção"]
+  },
+  {
+    "name": "Silent Hill f",
+    "studio": "NeoBards/Konami",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 349,90",
+    "link": "https://store.steampowered.com/app/2947440/SILENT_HILL_f/",
+    "image": "./img/silent_hill_f.webp",
+    "tags": ["terror", "narrativa", "visual-novel"]
+  },
+  {
+    "name": "Battlefield 6",
+    "studio": "DICE",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 299,90",
+    "link": "https://store.steampowered.com/app/2807960/Battlefield_6/",
+    "image": "./img/battlefield_6.webp",
+    "tags": ["fps", "guerra", "multiplayer", "audio"]
+  },
+  {
+    "name": "Consume Me",
+    "studio": "Indie Dev",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 46,90",
+    "link": "https://store.steampowered.com/app/2359120/Consume_Me/",
+    "image": "./img/consume_me.webp",
+    "tags": ["indie", "impacto", "narrativa"]
+  },
+  {
+    "name": "Despelote",
+    "studio": "Julián Cordero",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 44,90",
+    "link": "https://store.steampowered.com/app/2367820/despelote/",
+    "image": "./img/despelote.webp",
+    "tags": ["indie", "futebol", "impacto"]
+  },
+  {
+    "name": "Lost Records: Bloom & Rage",
+    "studio": "Don't Nod",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 127,69",
+    "link": "https://store.steampowered.com/app/1902960/Lost_Records_Bloom__Rage/",
+    "image": "./img/lost records.webp",
+    "tags": ["narrativa", "aventura", "impacto"]
+  },
+  {
+    "name": "South of Midnight",
+    "studio": "Compulsion Games",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 199,00",
+    "link": "https://store.steampowered.com/app/1934570/South_of_Midnight/",
+    "image": "./img/south_of_midnight.webp",
+    "tags": ["ação", "fantasia", "impacto"]
+  },
+  {
+    "name": "Wanderstop",
+    "studio": "Ivy Road",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 73,99",
+    "link": "https://store.steampowered.com/app/1299460/Wanderstop/",
+    "image": "./img/wanderstop.webp",
+    "tags": ["indie", "narrativa", "impacto"]
+  },
+  {
+    "name": "Final Fantasy XIV",
+    "studio": "Square Enix",
+    "year": "2024",
+    "value": "Paid",
+    "price": "R$ 52,99",
+    "link": "https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online/",
+    "image": "./img/ffxiv_dawntrail.webp",
+    "tags": ["mmorpg", "online", "suporte"]
+  },
+  {
+    "name": "Fortnite",
+    "studio": "Epic Games",
+    "year": "2024",
+    "value": "Free",
+    "price": "Grátis",
+    "link": "https://www.fortnite.com/",
+    "image": "./img/fortnite.webp",
+    "tags": ["battle-royale", "online", "suporte"]
+  },
+  {
+    "name": "Helldivers 2",
+    "studio": "Arrowhead",
+    "year": "2024",
+    "value": "Paid",
+    "price": "R$ 199,50",
+    "link": "https://store.steampowered.com/app/553850/HELLDIVERS_2/",
+    "image": "./img/helldivers 2.webp",
+    "tags": ["tiro", "coop", "suporte"]
+  },
+  {
+    "name": "Marvel Rivals",
+    "studio": "NetEase Games",
+    "year": "2025",
+    "value": "Free",
+    "price": "Grátis",
+    "link": "https://store.steampowered.com/app/2767030/Marvel_Rivals/",
+    "image": "./img/marvel_rivals.webp",
+    "tags": ["hero-shooter", "multiplayer", "marvel"]
+  },
+  {
+    "name": "No Man's Sky",
+    "studio": "Hello Games",
+    "year": "2024",
+    "value": "Paid",
+    "price": "R$ 162,00",
+    "link": "https://store.steampowered.com/app/275850/No_Mans_Sky/",
+    "image": "./img/no_man_sky.webp",
+    "tags": ["sobrevivência", "espaço", "suporte"]
+  },
+  {
+    "name": "Baldur's Gate 3",
+    "studio": "Larian Studios",
+    "year": "2023",
+    "value": "Paid",
+    "price": "R$ 199,99",
+    "link": "https://store.steampowered.com/app/1086940/Baldurs_Gate_3/",
+    "image": "./img/Baldur's_Gate_III.webp",
+    "tags": ["rpg", "comunidade"]
+  },
+  {
+    "name": "Absolum",
+    "studio": "Indie Studio",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 73,90",
+    "link": "https://store.steampowered.com/app/1904480/Absolum/",
+    "image": "./img/absolum.webp",
+    "tags": ["indie", "revelação"]
+  },
+  {
+    "name": "Ball x Pit",
+    "studio": "Indie Studio",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 46,99",
+    "link": "https://store.steampowered.com/app/2062430/BALL_x_PIT/",
+    "image": "./img/ball_pit.webp",
+    "tags": ["indie", "revelação"]
+  },
+  {
+    "name": "Blue Prince",
+    "studio": "Dogubomb",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 88,99",
+    "link": "https://store.steampowered.com/app/1569580/Blue_Prince/",
+    "image": "./img/blue_prince.webp",
+    "tags": ["indie", "puzzle", "estratégia"]
+  },
+  {
+    "name": "Dispatch",
+    "studio": "AdHoc Studio",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 88,99",
+    "link": "https://store.steampowered.com/app/2592160/Dispatch/",
+    "image": "./img/dispatch.webp",
+    "tags": ["indie", "estreia"]
+  },
+  {
+    "name": "Megabonk",
+    "studio": "vedinad",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 32,99",
+    "link": "https://store.steampowered.com/app/3405340/Megabonk/",
+    "image": "./img/megabonk.webp",
+    "tags": ["indie", "estreia"]
+  },
+  {
+    "name": "Destiny: Rising",
+    "studio": "Bungie/NetEase",
+    "year": 2025,
+    "value": "Free",
+    "price": "Grátis",
+    "link": "https://www.playdestinyrising.com/",
+    "image": "./img/destiny_rising.webp",
+    "tags": ["mobile", "shooter", "sci-fi"]
+  },
+  {
+    "name": "Persona 5: The Phantom X",
+    "studio": "Atlus/Perfect World",
+    "year": 2025,
+    "value": "Free",
+    "price": "Grátis",
+    "link": "https://store.steampowered.com/app/3061570/Persona5_The_Phantom_X/",
+    "image": "./img/p5x.webp",
+    "tags": ["mobile", "rpg", "anime"]
+  },
+  {
+    "name": "Sonic Rumble",
+    "studio": "SEGA",
+    "year": 2025,
+    "value": "Free",
+    "price": "Grátis",
+    "link": "https://store.steampowered.com/app/2951690/Sonic_Rumble/",
+    "image": "./img/sonic_rumble.webp",
+    "tags": ["mobile", "battle-royale", "sonic"]
+  },
+  {
+    "name": "Umamusume: Pretty Derby",
+    "studio": "Cygames",
+    "year": 2025,
+    "value": "Free",
+    "price": "Grátis",
+    "link": "https://store.steampowered.com/app/3224770/Umamusume_Pretty_Derby/",
+    "image": "./img/umamusume.webp",
+    "tags": ["mobile", "simulação", "anime"]
+  },
+  {
+    "name": "Wuthering Waves",
+    "studio": "Kuro Games",
+    "year": 2024,
+    "value": "Free",
+    "price": "Grátis",
+    "link": "https://store.steampowered.com/app/3513350/Wuthering_Waves/",
+    "image": "./img/wuthering-waves.webp",
+    "tags": ["mobile", "rpg", "mundo-aberto"]
+  },
+  {
+    "name": "Alien: Rogue Incursion",
+    "studio": "Survios",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 107,99",
+    "link": "https://store.steampowered.com/app/1850050/Alien_Rogue_Incursion_VR/",
+    "image": "./img/alien_rogue_incursion.webp",
+    "tags": ["vr", "terror", "ação"]
+  },
+  {
+    "name": "Arken Age",
+    "studio": "VitruviusVR",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 107,90",
+    "link": "https://store.steampowered.com/app/2274200/Arken_Age/",
+    "image": "./img/arken-age.webp",
+    "tags": ["vr", "aventura"]
+  },
+  {
+    "name": "Ghost Town",
+    "studio": "Fireproof Games",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 88,90",
+    "link": "https://store.steampowered.com/app/2496180/Ghost_Town/",
+    "image": "./img/ghost_town.webp",
+    "tags": ["vr", "puzzle"]
+  },
+  {
+    "name": "Marvel's Deadpool VR",
+    "studio": "Marvel Games",
+    "year": 2025,
+    "value": "Paid",
+    "price": "$ 49,99",
+    "link": "https://www.meta.com/pt-br/experiences/marvels-deadpool-vr/3240283705987790/",
+    "image": "./img/marvelsdeadpoolvr.webp",
+    "tags": ["vr", "ação", "herói"]
+  },
+  {
+    "name": "The Midnight Walk",
+    "studio": "Moonhood",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 107,90",
+    "link": "https://store.steampowered.com/app/2863640/The_Midnight_Walk/",
+    "image": "./img/the_midnight_walk.webp",
+    "tags": ["vr", "fantasia", "dark"]
+  },
+  {
+    "name": "DOOM: The Dark Ages",
+    "studio": "id Software",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 349,90",
+    "link": "https://store.steampowered.com/app/3017860/DOOM_The_Dark_Ages/",
+    "image": "./img/doom the dark ages.webp",
+    "tags": ["fps", "ação", "violência"]
+  },
+  {
+    "name": "Ninja Gaiden 4",
+    "studio": "Team Ninja",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 299,00",
+    "link": "https://store.steampowered.com/app/2627260/NINJA_GAIDEN_4/",
+    "image": "./img/ninja_gaiden_4.webp",
+    "tags": ["ação", "hack-and-slash"]
+  },
+  {
+    "name": "Shinobi: Art of Vengeance",
+    "studio": "SEGA",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 149,90",
+    "link": "https://store.steampowered.com/app/2361770/SHINOBI_Art_of_Vengeance/",
+    "image": "./img/shinobi_aov.webp",
+    "tags": ["ação", "ninja"]
+  },
+  {
+    "name": "Indiana Jones and the Great Circle",
+    "studio": "MachineGames",
+    "year": "2024",
+    "value": "Paid",
+    "price": "R$ 349,00",
+    "link": "https://store.steampowered.com/app/2677660/Indiana_Jones_and_the_Great_Circle/",
+    "image": "./img/GreatCircle.webp",
+    "tags": ["aventura", "ação", "exploração"]
+  },
+  {
+    "name": "Avowed",
+    "studio": "Obsidian Entertainment",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 349,00",
+    "link": "https://store.steampowered.com/app/2457220/Avowed/",
+    "image": "./img/avowed.webp",
+    "tags": ["rpg", "fantasia", "primeira-pessoa"]
+  },
+  {
+    "name": "The Outer Worlds 2",
+    "studio": "Obsidian Entertainment",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 299,90",
+    "link": "https://store.steampowered.com/app/1449110/The_Outer_Worlds_2/",
+    "image": "./img/the_outer_worlds_2.webp",
+    "tags": ["rpg", "sci-fi", "comédia"]
+  },
+  {
+    "name": "Monster Hunter Wilds",
+    "studio": "Capcom",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 279,90",
+    "link": "https://store.steampowered.com/app/2246340/Monster_Hunter_Wilds/",
+    "image": "./img/Monster_Hunter_Wilds_cover.webp",
+    "tags": ["rpg", "ação", "caça"]
+  },
+  {
+    "name": "2XKO",
+    "studio": "Riot Games",
+    "year": 2025,
+    "value": "Free",
+    "price": "Grátis",
+    "link": "https://2xko.riotgames.com/",
+    "image": "./img/sxko.webp",
+    "tags": ["luta", "league-of-legends"]
+  },
+  {
+    "name": "Capcom Fighting Collection 2",
+    "studio": "Capcom",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 179,00",
+    "link": "https://store.steampowered.com/app/2400430/Capcom_Fighting_Collection_2/",
+    "image": "./img/capcom_fighting_collection_2.webp",
+    "tags": ["luta", "retro", "coletânea"]
+  },
+  {
+    "name": "Fatal Fury: City of the Wolves",
+    "studio": "SNK",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 249,90",
+    "link": "https://store.steampowered.com/app/2492040/FATAL_FURY_City_of_the_Wolves/",
+    "image": "./img/fatal_fury.webp",
+    "tags": ["luta", "arcade"]
+  },
+  {
+    "name": "Mortal Kombat: Legacy Kollection",
+    "studio": "NetherRealm",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 134,90",
+    "link": "https://store.steampowered.com/app/3454980/Mortal_Kombat_Legacy_Kollection/",
+    "image": "./img/mortal_kombat_legacy_kollection.webp",
+    "tags": ["luta", "coletânea"]
+  },
+  {
+    "name": "Virtua Fighter 5 R.E.V.O.",
+    "studio": "SEGA",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 109,90",
+    "link": "https://store.steampowered.com/app/3112260/_Virtua_Fighter_5_REVO_World_Stage/",
+    "image": "./img/Virtua-Fighter-5-R.E.V.O..webp",
+    "tags": ["luta", "3d"]
+  },
+  {
+    "name": "LEGO Party!",
+    "studio": "TT Games",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 99,90",
+    "link": "https://store.steampowered.com/app/1969370/LEGO_Party/",
+    "image": "./img/lego_party.webp",
+    "tags": ["família", "party", "lego"]
+  },
+  {
+    "name": "LEGO Voyagers",
+    "studio": "TT Games",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 74,99",
+    "link": "https://store.steampowered.com/app/1538550/LEGO_Voyagers/",
+    "image": "./img/lego_voyagers.webp",
+    "tags": ["família", "aventura", "lego"]
+  },
+  {
+    "name": "Mario Kart World",
+    "studio": "Nintendo",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 499,90",
+    "link": "https://www.nintendo.com/pt-br/store/products/mario-kart-world-switch-2",
+    "image": "./img/Mario-Kart-World.webp",
+    "tags": ["corrida", "família", "mario"]
+  },
+  {
+    "name": "Sonic Racing: CrossWorlds",
+    "studio": "SEGA",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 349,90",
+    "link": "https://store.steampowered.com/app/2486820/Sonic_Racing_CrossWorlds/",
+    "image": "./img/sonic_racing_crossworlds.webp",
+    "tags": ["corrida", "família", "sonic"]
+  },
+  {
+    "name": "The Alters",
+    "studio": "11 bit studios",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 101,90",
+    "link": "https://store.steampowered.com/app/1601570/The_Alters/",
+    "image": "./img/the_alters.webp",
+    "tags": ["simulação", "sci-fi", "estratégia"]
+  },
+  {
+    "name": "Final Fantasy Tactics - The Ivalice Chronicles",
+    "studio": "Square Enix",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 219,90",
+    "link": "https://store.steampowered.com/app/1004640/FINAL_FANTASY_TACTICS__The_Ivalice_Chronicles/",
+    "image": "./img/fftactics_ivalice_chronicles.webp",
+    "tags": ["estratégia", "rpg", "remaster"]
+  },
+  {
+    "name": "Jurassic World Evolution 3",
+    "studio": "Frontier",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 226,00",
+    "link": "https://store.steampowered.com/app/2958130/Jurassic_World_Evolution_3/",
+    "image": "./img/jurassic_world_evolution_3.webp",
+    "tags": ["simulação", "dinossauros"]
+  },
+  {
+    "name": "Civilization VII",
+    "studio": "Firaxis Games",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 499,50",
+    "link": "https://store.steampowered.com/app/1295660/Sid_Meiers_Civilization_VII/",
+    "image": "./img/civilization_vii.webp",
+    "tags": ["estratégia", "histórico", "4x"]
+  },
+  {
+    "name": "Tempest Rising",
+    "studio": "Slipgate Ironworks",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 159,90",
+    "link": "https://store.steampowered.com/app/1486920/Tempest_Rising/",
+    "image": "./img/tempest_risign.webp",
+    "tags": ["rts", "estratégia", "guerra"]
+  },
+  {
+    "name": "Two Point Museum",
+    "studio": "Two Point Studios",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 126,90",
+    "link": "https://store.steampowered.com/app/2185060/Two_Point_Museum/",
+    "image": "./img/two_point_museum.webp",
+    "tags": ["simulação", "gestão"]
+  },
+  {
+    "name": "EA Sports FC 26",
+    "studio": "EA Sports",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 299,00",
+    "link": "https://store.steampowered.com/app/3405690/EA_SPORTS_FC_26/",
+    "image": "./img/ea_sports_fc_26.webp",
+    "tags": ["esportes", "futebol"]
+  },
+  {
+    "name": "F1 25",
+    "studio": "Codemasters",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 249,90",
+    "link": "https://store.steampowered.com/app/3059520/F1_25/",
+    "image": "./img/f1_25.webp",
+    "tags": ["corrida", "simulação", "f1"]
+  },
+  {
+    "name": "Rematch",
+    "studio": "Sloclap",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 89,00",
+    "link": "https://store.steampowered.com/app/2138720/REMATCH/",
+    "image": "./img/rematch.webp",
+    "tags": ["esportes", "luta"]
+  },
+  {
+    "name": "Arc Raiders",
+    "studio": "Embark Studios",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 171,80",
+    "link": "https://store.steampowered.com/app/1808500/ARC_Raiders/",
+    "image": "./img/arc raiders.webp",
+    "tags": ["tiro", "coop", "sci-fi"]
+  },
+  {
+    "name": "Elden Ring: Nightreign",
+    "studio": "FromSoftware",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 197,90",
+    "link": "https://store.steampowered.com/app/2622380/ELDEN_RING_NIGHTREIGN/",
+    "image": "./img/elden ring nightreing.webp",
+    "tags": ["rpg", "soulslike", "expansão"]
+  },
+  {
+    "name": "Peak",
+    "studio": "Aggro Crab Games",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 23,99",
+    "link": "https://store.steampowered.com/app/3527290/PEAK/",
+    "image": "./img/peak.webp",
+    "tags": ["multiplayer", "alpinismo"]
+  },
+  {
+    "name": "Assassin's Creed Shadows",
+    "studio": "Ubisoft",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 349,90",
+    "link": "https://store.steampowered.com/app/3159330/Assassins_Creed_Shadows/",
+    "image": "./img/assassins_creed_shadows.webp",
+    "tags": ["ação", "rpg", "acessibilidade"]
+  },
+  {
+    "name": "Atomfall",
+    "studio": "Rebellion",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 134,90",
+    "link": "https://store.steampowered.com/app/801800/Atomfall/",
+    "image": "./img/atomfall.webp",
+    "tags": ["ação", "sobrevivência", "acessibilidade"]
+  },
+  {
+    "name": "007 First Light",
+    "studio": "IO Interactive",
+    "year": 2026,
+    "value": "Paid",
+    "price": "R$ 299,90",
+    "link": "https://store.steampowered.com/app/3768760/007_First_Light/",
+    "image": "./img/007 first light.webp",
+    "tags": ["ação", "espião", "aguardado"]
+  },
+  {
+    "name": "Grand Theft Auto VI",
+    "studio": "Rockstar Games",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ ??",
+    "link": "https://www.rockstargames.com/VI",
+    "image": "./img/grand_theft_auto_vi.webp",
+    "tags": ["mundo-aberto", "crime", "aguardado"]
+  },
+  {
+    "name": "Marvel's Wolverine",
+    "studio": "Insomniac Games",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ ??",
+    "link": "https://www.playstation.com/en-us/games/marvels-wolverine/",
+    "image": "./img/marvelswolverine.webp",
+    "tags": ["ação", "herói", "aguardado"]
+  },
+  {
+    "name": "Resident Evil Requiem",
+    "studio": "Capcom",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 299,90",
+    "link": "https://store.steampowered.com/app/3764200/Resident_Evil_Requiem/",
+    "image": "./img/resident_evil_requiem.webp",
+    "tags": ["terror", "survival", "aguardado"]
+  },
+  {
+    "name": "The Witcher 4",
+    "studio": "CD Projekt RED",
+    "year": 2026,
+    "value": "Paid",
+    "price": "R$ ??",
+    "link": "https://www.thewitcher.com/pt/pt-br/witcher4",
+    "image": "./img/the-witcher-4.webp",
+    "tags": ["rpg", "fantasia", "aguardado"]
+  },
+  {
+    "name": "Tony Hawk's Pro Skater 3 + 4",
+    "studio": "Activision",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 269,90",
+    "link": "https://store.steampowered.com/app/2545710/Tony_Hawks_Pro_Skater_3__4/",
+    "image": "./img/Tony-Hawks-Pro-Skater-34.webp",
+    "tags": ["esporte", "skate", "remake"]
+  },
+  {
+    "name": "Borderlands 4",
+    "studio": "Gearbox",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 379,90",
+    "link": "https://store.steampowered.com/app/1285190/Borderlands_4/",
+    "image": "./img/borderlands_4.webp",
+    "tags": ["fps", "looter-shooter", "coop"]
+  },
+  {
+    "name": "Lost Soul Aside",
+    "studio": "Ultizero Games",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 299,90",
+    "link": "https://store.steampowered.com/app/3378960/Lost_Soul_Aside/",
+    "image": "./img/lost soul aside.webp",
+    "tags": ["ação", "rpg", "hack-and-slash"]
+  },
+  {
+    "name": "Metal Gear Solid Delta: Snake Eater",
+    "studio": "Konami",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 299,90",
+    "link": "https://www.konami.com/mg/mgs3r/",
+    "image": "./img/metal_gear_solid_delta.webp",
+    "tags": ["stealth", "ação", "remake"]
+  },
+  {
+    "name": "Gears of War Reloaded",
+    "studio": "The Coalition",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 199,00",
+    "link": "https://store.steampowered.com/app/2523720/Gears_of_War_Reloaded/",
+    "image": "./img/gears_of_war_reloaded.webp",
+    "tags": ["tiro", "ação", "sci-fi"]
+  },
+  {
+    "name": "Digimon Story: Time Stranger",
+    "studio": "Bandai Namco",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 319,90",
+    "link": "https://store.steampowered.com/app/1984270/Digimon_Story_Time_Stranger/",
+    "image": "./img/digimon story time stranger.webp",
+    "tags": ["rpg", "anime", "digimon"]
+  },
+  {
+    "name": "Sword of the Sea",
+    "studio": "Giant Squid",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 88,99",
+    "link": "https://store.steampowered.com/app/2453160/Sword_of_the_Sea/",
+    "image": "./img/sword_of_the_sea.webp",
+    "tags": ["indie", "aventura", "skate"]
+  },
+  {
+    "name": "Mafia: The Old Country",
+    "studio": "Hangar 13",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 289,90",
+    "link": "https://store.steampowered.com/app/1941540/Mafia_The_Old_Country/",
+    "image": "./img/mafia_the_old_country.webp",
+    "tags": ["ação", "crime", "narrativa"]
+  },
+  {
+    "name": "Keeper",
+    "studio": "Double Fine",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 99,00",
+    "link": "https://store.steampowered.com/app/3043580/Keeper/",
+    "image": "./img/keeper.webp",
+    "tags": ["indie", "aventura"]
+  },
+  {
+    "name": "Hell is Us",
+    "studio": "Rogue Factor",
+    "year": 2025,
+    "value": "Paid",
+    "price": "R$ 179,99",
+    "link": "https://store.steampowered.com/app/1620730/Hell_is_Us/",
+    "image": "./img/hell is us.webp",
+    "tags": ["ação", "aventura", "sci-fi"]
+  }
+]
